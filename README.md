@@ -6,6 +6,6 @@ I built it when I was still an earlier in college, it was a beautiful moment whe
 ### mouse robot prototype by me
 ![mouse robot by me](mouse-robot.jpg)
 
-Just in case you are curious to know more about me or give me some offer/feedback, you could visit [mine](https://afadhil.com) or email me at hi@afadhil.com and please don't forget to give me stars on this project.
+Just in case you are curious to know more about me or give me some offer/feedback, you could reach me via email and please don't forget to give me stars on this project.
 
 Thanks.
